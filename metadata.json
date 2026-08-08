@@ -1,0 +1,6 @@
+{
+  "name": "Shift & Patrol App",
+  "description": "An app template with a bottom menu bar featuring MyShifts, PatrolTimes, Capture, and Gallery views.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
